@@ -1,0 +1,22 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallumJohn96/TestProject2.git"
+  },
+  "author": "callum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CallumJohn96/TestProject2/issues"
+  },
+  "homepage": "https://github.com/CallumJohn96/TestProject2#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
